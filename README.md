@@ -1,6 +1,8 @@
 rot13
 =====
 
+[![Build Status](https://travis-ci.org/soulwing/rot13.svg?branch=master)](https://travis-ci.org/soulwing/rot13)
+
 A Java implementation of the [ROT-13] (http://en.wikipedia.org/wiki/ROT13)
 symmetric substitution cipher, frequently used to obscure possibly objectionable 
 text in messages such as those posted on USENET. Also used to hide punchlines, 
