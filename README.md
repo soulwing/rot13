@@ -2,6 +2,8 @@ rot13
 =====
 
 [![Build Status](https://travis-ci.org/soulwing/rot13.svg?branch=master)](https://travis-ci.org/soulwing/rot13)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.soulwing/rot13/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.soulwing%20a%3Arot13*)
+
 
 A Java implementation of the [ROT-13] (http://en.wikipedia.org/wiki/ROT13)
 symmetric substitution cipher, frequently used to obscure possibly objectionable 
